@@ -3,7 +3,7 @@
 module.exports = {
     // Target must be serverless
     target: "serverless",
-    exportTrailingSlash: true,
+    trailingSlash: true,
     images: {
       loader: 'akamai',
       path: '',

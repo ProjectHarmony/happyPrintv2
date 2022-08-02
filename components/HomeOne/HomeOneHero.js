@@ -15,7 +15,7 @@ export default function HomeOneHero() {
     SwiperCore.use([Autoplay]);
     const team = [
         {
-            title: [<span style={{color:"#ffffff",fontSize:'48px'}}>Your Total<br></br> Branding Partner</span>],
+            title: [<span style={{color:"#ffffff",fontSize:'48px'}}>Your Total<br></br> Branding<br></br> Partner</span>],
             // desc: "Magnificence in the realistic interchanges",
             // img: (
             //     <img

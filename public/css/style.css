@@ -9966,9 +9966,11 @@ input.form-control-sm {
   @media (max-width: 1199px) {
     .hero__image {
       width: 65%; } }
+  
   @media (max-width: 1000px) {
     .hero__image {
-      display: none !important; } }
+      width: 0%; } }
+
 
   @media (max-width: 460px) {
     .hero__image {
